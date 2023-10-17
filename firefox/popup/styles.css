@@ -1,0 +1,41 @@
+.fade-out {
+  animation: fadeOut 1s ease-in-out forwards;
+  animation-delay: 0.5s; 
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    display: none;
+    pointer-events: none;
+  }
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #333333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #131313;
+  transform: scale(1.05);
+}
+
+
+button:active {
+  transform: scale(0.95);
+}
+
+button:disabled {
+  background-color: #666;
+  cursor: not-allowed;
+}

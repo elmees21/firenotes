@@ -1,0 +1,14 @@
+{
+    "appName": {
+      "message": "FireNotes - Notepad"
+    },
+    "appDesc": {
+      "message": "Your notes wherever you go. Simple, convenient and fast."
+    },
+    "deleteWarning": {
+      "message": "Do you want to reset everything? Saved text and data will be lost."
+    },
+    "externWindow": {
+      "message": "◰ Open in external window"
+    }
+  }
