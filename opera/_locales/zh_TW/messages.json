@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "FireNotes - 記事本"
+    },
+    "appDesc": {
+        "message": "您的筆記隨處可見。簡單、方便且快速。"
+    },
+    "deleteWarning": {
+        "message": "您要重置所有內容嗎？已保存的文本和數據將丟失。"
+    },
+    "externWindow": {
+        "message": "◰ 在外部視窗中開啟"
+    }
+}

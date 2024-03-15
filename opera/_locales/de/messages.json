@@ -1,0 +1,14 @@
+{
+  "appName": {
+      "message": "FireNotes - Notizbuch"
+  },
+  "appDesc": {
+      "message": "Deine Notizen, egal wo du bist. Einfach, bequem und schnell."
+  },
+  "deleteWarning": {
+      "message": "Möchtest du alles zurücksetzen? Gespeicherter Text und Daten gehen verloren."
+  },
+  "externWindow": {
+      "message": "◰ In externem Fenster öffnen"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+      "message": "FireNotes - Bloc-notes"
+  },
+  "appDesc": {
+      "message": "Vos notes où que vous soyez. Simple, pratique et rapide."
+  },
+  "deleteWarning": {
+      "message": "Voulez-vous tout réinitialiser ? Le texte et les données sauvegardés seront perdus."
+  },
+  "externWindow": {
+      "message": "◰ Ouvrir dans une fenêtre externe"
+  }
+}

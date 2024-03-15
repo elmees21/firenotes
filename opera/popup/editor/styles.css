@@ -4,7 +4,7 @@ body {
   font-family:Arial,sans-serif;
   overflow:hidden;
   transition:color .3s ease,background-color .3s ease;
-  font-size: 88%
+  background-color:#fff;
   }
   
   header {
@@ -39,7 +39,7 @@ body {
   text-align:center;
   display:none;
   overflow-y:scroll;
-  transition:background-color .3s ease;
+  transition:background-color .3s ease
   }
   
   .settings-menu h1 {

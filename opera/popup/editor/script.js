@@ -48,17 +48,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
     resetButton.addEventListener("click", function() {
         playWarningSound(); 
-        const confirmReset = window.confirm(chrome.i18n.getMessage("deleteWarning"));
-        if (confirmReset) {
-            localStorage.clear();
-            noteText.value = "";
-            noteText.style.fontSize = "16px";
-            noteText.style.fontFamily = "Arial, sans-serif";
-            document.body.classList.remove("dark-mode");
-            settingsMenu.classList.remove("dark-mode");
-            localStorage.setItem("darkMode", "false");
-            window.location.reload(); 
-        }
+        localStorage.clear();
+        noteText.value = "";
+        noteText.style.fontSize = "16px";
+        noteText.style.fontFamily = "Arial, sans-serif";
+        document.body.classList.remove("dark-mode");
+        settingsMenu.classList.remove("dark-mode");
+        localStorage.setItem("darkMode", "false");
+        window.location.reload(); 
     });
 
     openChat.addEventListener("click", function () {   

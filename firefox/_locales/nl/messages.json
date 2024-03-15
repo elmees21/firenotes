@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "FireNotes - Notitieblok"
+    },
+    "appDesc": {
+        "message": "Uw notities waar u ook gaat. Eenvoudig, handig en snel."
+    },
+    "deleteWarning": {
+        "message": "Wilt u alles resetten? Opgeslagen tekst en gegevens gaan verloren."
+    },
+    "externWindow": {
+        "message": "◰ Openen in extern venster"
+    }
+}
