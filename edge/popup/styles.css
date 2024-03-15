@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0);
+  overflow: hidden;
+}
+
+embed {
+  width: 500px;
+  height: 550px;
+} 

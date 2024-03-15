@@ -1,0 +1,14 @@
+{
+  "appName": {
+      "message": "FireNotes - 记事本"
+  },
+  "appDesc": {
+      "message": "您的笔记随时随地可用。简单、便捷且快速。"
+  },
+  "deleteWarning": {
+      "message": "您要重置所有内容吗？已保存的文本和数据将丢失。"
+  },
+  "externWindow": {
+      "message": "◰ 在外部窗口中打开"
+  }
+}

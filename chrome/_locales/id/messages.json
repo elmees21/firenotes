@@ -1,0 +1,14 @@
+{
+  "appName": {
+      "message": "FireNotes - Catatan"
+  },
+  "appDesc": {
+      "message": "Catatan Anda di mana pun Anda pergi. Sederhana, nyaman, dan cepat."
+  },
+  "deleteWarning": {
+      "message": "Apakah Anda ingin mengatur ulang semuanya? Teks dan data yang disimpan akan hilang."
+  },
+  "externWindow": {
+      "message": "◰ Buka di jendela eksternal"
+  }
+}

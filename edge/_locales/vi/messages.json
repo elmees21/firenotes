@@ -1,0 +1,14 @@
+{
+  "appName": {
+      "message": "FireNotes - Sổ ghi chú"
+  },
+  "appDesc": {
+      "message": "Ghi chú của bạn bất cứ nơi nào bạn đi. Đơn giản, thuận tiện và nhanh chóng."
+  },
+  "deleteWarning": {
+      "message": "Bạn có muốn đặt lại tất cả không? Văn bản và dữ liệu đã lưu sẽ bị mất."
+  },
+  "externWindow": {
+      "message": "◰ Mở trong cửa sổ bên ngoài"
+  }
+}

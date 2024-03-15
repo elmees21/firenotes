@@ -1,0 +1,14 @@
+{
+  "appName": {
+      "message": "FireNotes - メモ帳"
+  },
+  "appDesc": {
+      "message": "どこにいてもメモできます。シンプルで便利、そして高速です。"
+  },
+  "deleteWarning": {
+      "message": "すべてリセットしますか？保存されたテキストとデータが失われます。"
+  },
+  "externWindow": {
+      "message": "◰ 外部ウィンドウで開く"
+  }
+}
